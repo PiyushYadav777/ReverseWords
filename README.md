@@ -1,2 +1,2 @@
 # ReverseWords
-Take a sentence as an input and reverse every word in that sentence.
+Javascript:- Take a sentence as an input and reverse every word in that sentence.
